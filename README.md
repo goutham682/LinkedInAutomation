@@ -1,18 +1,33 @@
-# LinkedIn Automation (Demo)
+# API Automation Testing Project
 
-## Technologies
+## Overview
+This project demonstrates API automation testing using Python.  
+The purpose of this project is to validate API requests and responses through automated test scripts.
+
+## Technologies Used
 - Python
-- Selenium
-- WebDriver Manager
+- Requests Library
+- PyTest
+- Git & GitHub
 
-## Features
-- Opens a browser
-- Navigates to a web page
-- Demonstrates Selenium automation concepts
+## Project Structure
 
-## Setup
+## Test Cases Covered
+- Verify API status code
+- Validate response data
+- Check API response structure
+- Automate GET and POST requests
 
-```bash
+## How to Run
+
+Install dependencies:
+
 pip install -r requirements.txt
-python main.py
-```
+
+Run tests:
+
+pytest
+
+## Author
+
+Gouthamprabhu R
