@@ -31,3 +31,14 @@ pytest
 ## Author
 
 Gouthamprabhu R
+## Test Report
+
+All API test cases are executed successfully using PyTest.
+
+Test Coverage:
+- GET API Test ✅
+- POST API Test ✅
+- PUT API Test ✅
+- DELETE API Test ✅
+
+HTML test report generated using pytest-html.
